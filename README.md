@@ -1,6 +1,8 @@
 # Conway-s_Game_of_Life
 
-![Conway’s Game of Life](https://github.com/DSM2499/Conway-s_Game_of_Life/blob/main/problem-2/all_test.gif) ![Conway’s Game of Life](https://github.com/DSM2499/Conway-s_Game_of_Life/blob/main/problem-2/all_test.gif) 
+![Conway’s Game of Life](https://github.com/DSM2499/Conway-s_Game_of_Life/blob/main/problem-2/all_test.gif)
+
+![Conway’s Game of Life](https://github.com/DSM2499/Conway-s_Game_of_Life/blob/main/problem-1/all_test.gif) 
 
 **A high-performance simulation of Conway’s Game of Life extended with wormhole mechanics, validated by a self-supervised deep learning model.**  
 
